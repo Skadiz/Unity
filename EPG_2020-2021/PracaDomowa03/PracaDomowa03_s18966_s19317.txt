@@ -1,0 +1,17 @@
+Nad Pracą Domową pracowali Artem Anikieiev i Vsevolod Kurochka
+Co zawiera projekt
+2 sceny
+elemety wymienione w PracaDomowa01 - zaimplementował Artem Anikieiev
+  (gracz przemieszcza się, biega, skacze, dashue, 
+  slizga po scianach, platforma znikajaca, platforma trampolina, 
+  poruszająca w lewo/prawo, Surprise me 2 platformy, jedna zmniejsza
+  a druga zwiększa gracza, platforma reset sceny)
+system HP u gracza - Vsevolod Kurochka
+wchodzenie/schodzenie po drabinie - Vsevolod Kurochka
+zbierable: na 2 scenach są dwie drzwi i dwa klucza - Artem Anikieiev
+wieżyczka - strzela do gracza, jeżeli podejdzie wystarczająco blisko - Artem Anikieiev
+podłoże z lawą - zabiera 1 życie graczowi raz na 2 sekundy - Artem Anikieiev
+jednostka patrolująca kamikaze- przeciwnik przemieszcza się na danym mu obszarze,
+jeżeli gracz jest wystarczająco blisko podąża za nim (szybciej niż przy patrolowaniu).
+W przypadku kolizji z graczem odrzuca gracza zabierając mu 1 życie i sam ginie - Vsevolod Kurochka
+

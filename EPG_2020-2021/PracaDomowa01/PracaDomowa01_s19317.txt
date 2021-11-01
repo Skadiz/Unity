@@ -1,0 +1,44 @@
+Skopiowano z polecenia:
+done – zrobione;
+mb – chyba zrobione;
+nope – nie zrobione;      
+
+Na scenie znajdowac maja sie:
+done  obiekt gracza,  - “ Player”
+done  platformy,
+done  odpowiedni obiekt/obiekty pozwalaj?ce na reset sceny - np. po wpadnieciu w dziure – dziura i „diamond”(jako koniec gry);
+
+Wymagania do gracza:
+done  chodzi
+done  biega (z shiftem)
+done  skacze
+mb  ?lizga si? po ?cianach
+done  dash –  (z “E”)
+
+Wymagania do platform:
+done  platforma znikaj?ca po 1s od kolizji z graczem
+done * poruszajaca si? lewo/prawo - gracz porusza sie razem z platformy (ale nie jest dzieckiem platformy)
+mb   platforma bedaca trampolina
+done  platforma Surprise me - cokolwiek ciekawego przyjdzie Ci do glowy (byle nie statyczna) –„FallPlatform” (Spadajaca i wychodzaca platforma) 
+
+Z wyzej wymienionych obiektow stworz poziom, gdzie zadaniem gracza jest przej?cie z jednego pewnego miejsca sceny w drugi (najlepiej maksymalnie oddalone od siebie). 
+ 
+done   „diamond”(jako koniec gry);
+
+ done   Badz kreatywny!
+
+Jak odda? projekt?
+Stw?rz prywatne repozytorium w ramach organizacji EPG-2020-2021 o nazwie PracaDomowa01_numerStudenta
+np. PracaDomowa01_s12345
+Wgraj projekt do repozytorium.
+
+Nagraj kr?tkie nagranie przedstawiaj?ce gameplay z rozszerzeniem mo?liwym do podgl?du na google drive (np. mkv, mp4) o nazwie PracaDomowa01_numerStudenta.mkv
+
+Stw?rz plik tekstowy o nazwie PracaDomowa01_numerStudenta.txt i spisz zaimplementowane elementy.
+
+W indywidualnym folderze na google drive stw?rz folder o nazwie PracaDomowa01. Do folderu tego wstaw ww. nagranie i plik tekstowy.
+
+Maksymalna liczba punkt?w do zdobycia: 25
+Termin oddania: 20.10.2020 (do p??nocy)
+Termin oddania (zaoczni): 25.10.2020 (do p??nocy)
+
