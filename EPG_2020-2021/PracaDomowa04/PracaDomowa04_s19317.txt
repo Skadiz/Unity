@@ -1,0 +1,22 @@
+Do obiektu powinny by? podpi?te nast?puj?ce komponenty:
+skrypt PlayerMovement.cs (nale?y go zaimplementowa?) - done
+rigidbody2D - done
+animator - done
+sprite renderer - 
+ 
+
+
+Ad1. Skrypt PlayerMovement.cs
+Powinien zawiera? mo?liwo?? sterowania WSAD oraz skok. - zrobi?em na "A" i "D" poniewa? nie potrzebujemy W (mamy spacje) i S.
+
+Ad2. Nale?y u?y? komponentu rigidbody2D, aby mo?liwe by?o odwo?ywanie si? do fizyki. - done
+
+Ad3. Koniecznym jest komponent Animator. W komponencie animator powinny by? umieszczone 4 animacje.
+
+animacje:
+jump (1 klatka)
+Walk left i walk right zrobi?em z jednej animacji i doda?em do skriptu metode flip(), kt?ra odbija sprite pod warunkiem kierunka ruchu
+idle (2 klatki) - nie zrozumia?em jak zrobi? idle z tymy spritami adekwatnie, dlatego zrobi?em idle z okiem.
+
+Ad4. Link do pobrania sprite’?w z niezb?dnymi stanami do animacji. - wykorzysta?em
+https://opengameart.org/content/platformer-asset-pack-3
